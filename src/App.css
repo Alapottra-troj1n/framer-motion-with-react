@@ -3,10 +3,12 @@
   display: flex; 
   justify-content: center;
   align-items: center;
+
 }
 
 .animate-box{
       height: 300px;
       width: 300px;
       background-color: rgb(227, 50, 50);
+      margin: 10px;
 }
